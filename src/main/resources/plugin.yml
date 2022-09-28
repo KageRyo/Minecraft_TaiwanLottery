@@ -5,3 +5,4 @@ api-version: 1.13
 prefix: TaiwanLottery
 authors: [ KageRyo ]
 description: A Lottery Plugin.
+depend: [Vault]
