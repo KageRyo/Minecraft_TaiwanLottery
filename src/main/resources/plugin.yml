@@ -1,0 +1,7 @@
+name: TaiwanLottery
+version: '1.0'
+main: kageryo.taiwanlottery.TaiwanLottery
+api-version: 1.13
+prefix: TaiwanLottery
+authors: [ KageRyo ]
+description: A Lottery Plugin.
